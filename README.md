@@ -1,7 +1,5 @@
 # CloudKitchen Profit & Retention Analytics
 
-![SQL](https://img.shields.io/badge/SQL-MySQL%208%2B-blue) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-not%20used-lightgrey) ![Level](https://img.shields.io/badge/level-beginner--intermediate-green)
-
 A pure-SQL analytics project for a Pune-based cloud-kitchen business. It answers one question: **which brands, kitchens, channels and customers actually make money?**
 
 ## Table of Contents
