@@ -111,7 +111,7 @@ cloudkitchen_sql_project/
 |-- 02_seed_data.sql           # reference data + generated customers/orders
 |-- 03_views_indexes.sql       # indexes and views
 |-- 04_analysis_queries.sql    # 10 business questions
-|-- er_diagram.mermaid         # ER diagram source
+|-- er_diagram.png             # ER diagram 
 `-- README.md
 ```
 
